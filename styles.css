@@ -18,7 +18,7 @@
 }
 body {
   text-align: center;
-  background-image: url("/images/bgpattern.png");
+  background-image: url("images/bgpattern.png");
 }
 
 h1 {
